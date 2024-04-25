@@ -63,40 +63,40 @@ https://ticketera-production.onrender.com/login
 | <img width="20" height="20" src="https://img.icons8.com/color/20/html-5--v1.png" alt="html-5"/> HTML5 |
 | <img width="20" height="20" src="https://img.icons8.com/color/20/css3.png" alt="css3"/> CSS3 |
 | <img width="20" height="20" src="https://img.icons8.com/office/20/react.png" alt="react"/> [React](https://react.dev/) |
-| <img width="20" height="20" src="https://img.icons8.com/color/20/material-ui.png" alt="material-ui"/> [Material UI icons](https://mui.com/) Material|
-|[axios](https://www.npmjs.com/package/axios)|
-|[font-awesome](https://www.npmjs.com/package/font-awesome)|
-|[Redux Toolkit](https://redux-toolkit.js.org/)|
-|[dotenv](https://www.npmjs.com/package/dotenv)|
-|[react-icons](https://www.npmjs.com/package/react-icons)|
-|[react-router-dom](https://www.npmjs.com/package/react-router-dom)|
-|[sweetalert2](https://www.npmjs.com/package/sweetalert2)|
+| <img width="20" height="20" src="https://img.icons8.com/color/20/material-ui.png" alt="material-ui"/> [Material UI icons](https://mui.com/) |
+|<img width="20" height="20" src="./Iconos/axios-icon.svg" alt="axios"/> [axios](https://www.npmjs.com/package/axios)|
+|<img width="20" height="20" src="./Iconos/fontA.png" alt="fontA"/>  [font-awesome](https://www.npmjs.com/package/font-awesome)|
+|<img width="20" height="20" src="./Iconos/Redux.png" alt="redux"/> [Redux Toolkit](https://redux-toolkit.js.org/)|
+|<img width="20" height="20" src="./Iconos/dotenv.ico" alt="dotenv"/> [dotenv](https://www.npmjs.com/package/dotenv)|
+|<img width="20" height="20" src="./Iconos/ReactBootstrap.png" alt="reactB"/> [react-icons](https://www.npmjs.com/package/react-icons)|
+|<img height="20" src="./Iconos/rrd.png" alt="rrd"/> [react-router-dom](https://www.npmjs.com/package/react-router-dom)|
+|<img width="20" height="20" src="./Iconos/sweetalert.png" alt="sweet"/>  [sweetalert2](https://www.npmjs.com/package/sweetalert2)|
 |<img width="20" height="20" src="https://img.icons8.com/color/20/vite" alt="html-5"/> [vite](https://vitejs.dev/)|
 
 
 | *BackEnd* |
 | -------- |
 | [<img width="20" height="20" src="https://img.icons8.com/color/20/nodejs.png" alt="nodejs"/> NodeJS](https://nodejs.org/en) |
-| [Railway](https://railway.app/) |
-|[axios](https://www.npmjs.com/package/axios)|
-|[cors](https://www.npmjs.com/package/cors)|
-|[dotenv](https://www.npmjs.com/package/dotenv)|
-|[express](https://www.npmjs.com/package/express)|
-|[nodemon](https://www.npmjs.com/package/nodemon)|
-|[sequelize](https://sequelize.org/)|
+| <img width="20" height="20" src="./Iconos/railway.ico" alt="Railway"> [Railway](https://railway.app/) |
+|<img width="20" height="20" src="./Iconos/axios-icon.svg" alt="axios"/> [axios](https://www.npmjs.com/package/axios)|
+|<img width="20" height="20" src="./Iconos/cors.ico" alt="cors"/> [cors](https://www.npmjs.com/package/cors)|
+|<img width="20" height="20" src="./Iconos/dotenv.ico" alt="dotenv"/> [dotenv](https://www.npmjs.com/package/dotenv)|
+|<img width="20" height="20" src="./Iconos/Express.png" alt="express"/> [express](https://www.npmjs.com/package/express)|
+|<img width="20" height="20" src="./Iconos/Nodemon.png" alt="nodemon"/> [nodemon](https://www.npmjs.com/package/nodemon)|
+|<img width="20" height="20" src="./Iconos/Sequelize.png" alt="sequelize"/> [sequelize](https://sequelize.org/)|
 
 
 
 | *Testing* |
 | ------------ |
-| ![alt text](Postman-16x16.jpg)  [Postman](https://www.postman.com/) |
-|[Selenium](https://www.selenium.dev/)|
+| <img width="20" height="20" src="./Iconos/Postman.png" alt="postman"/> [Postman](https://www.postman.com/) |
+|<img width="20" height="20" src="./Iconos/Selenium.png" alt="selenium"/> [SeleniumIDE](https://www.selenium.dev/)|
 
 
 | *UX / UI* |
 | ------------ |
 | <img width="20" height="20" src="https://img.icons8.com/color/20/figma--v1.png" alt="figma--v1"/> Figma |
-|[Photoshop](https://www.adobe.com/pe/products/photoshop.html)|
+|<img width="20" height="20" src="./Iconos/Photoshop.png" alt="photoshop"/>  [Photoshop](https://www.adobe.com/pe/products/photoshop.html)|
 
 ## ![alt text](Iconos/pantallas-32x32.png) Pantallas
 
