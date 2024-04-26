@@ -27,6 +27,11 @@
 
 https://ticketera-production.onrender.com/login
 
+##  <img width="32" height="32" src="./Iconos/reproductor-de-video.png" alt="video"/> Video
+
+https://youtu.be/VzWVnY3HC1Q
+
+
 ## ![alt text](Iconos/Integrantes-32x32.png) Integrantes
 
 ####  *TL*
@@ -54,8 +59,11 @@ https://ticketera-production.onrender.com/login
 ![alt text](Iconos/LIN-16x16.png) [Silvana Loureiro](https://www.linkedin.com/in/silvana-loureiro)
 
 ## ![alt text](Iconos/organizacion-32x32.png) Método de organización
-- Coordinamos Daily 
-- Scrum
+- Coordinamos Daily las cuales se cumplieron durante todo el proceso.
+- Se utilizó metodología SCRUM con sprint a 15 días.
+- Se creó Trello automatizado para la gestión interna de todo el proyecto.
+- Se creó un canal de Discord enlazado con Trello como medio principal de comunicación.
+- Se asignó un PM y un SCRUM Master para organizar las tareas.
 ## ![alt text](Iconos/tecnologias-32x32.png) Tecnologías usadas
 
 | *Frontend* |
